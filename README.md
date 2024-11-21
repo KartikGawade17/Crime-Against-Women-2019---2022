@@ -24,5 +24,6 @@ The data was sourced from official **NCRB (National Crime Records Bureau)** PDFs
 ![Dashboard Preview](p1.png)  
 ![Dashboard Preview](p2.png)  
 *A glimpse of the interactive dashboard showcasing crime trends.*
+*Full pbix file is in repository you can check it out*
 
 
