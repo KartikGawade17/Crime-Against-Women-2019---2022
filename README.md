@@ -1,19 +1,22 @@
-Crime Against Women in India (2019-2022)
+# 📊 Crime Against Women in India (2019-2022)  
 
-This project analyzes crime trends against women in India from 2019 to 2022, focusing on critical categories such as:
+This repository showcases a comprehensive analysis of crimes against women in India from **2019 to 2022**. The project focuses on identifying trends in various categories of crimes to provide actionable insights.  
 
-Rape cases
-Gang rapes
-Kidnapping and abduction
-Assault with intent to outrage modesty
-Cruelty by husband or relatives
-Data Collection
-The dataset was sourced from official NCRB (National Crime Records Bureau) PDFs, downloaded and processed for analysis.
+---
 
-Tools Used
-Power BI: For data visualization and interactive dashboards.
-Project Highlights
-Comprehensive insights into crime trends over four years.
-Focused visualizations for better understanding and actionable insights.
-Easy-to-interpret dashboards that bring clarity to complex datasets.
-Check out the repository for more details, including the report, dashboards, and insights!
+## 🔍 **Overview**  
+This project analyzes key categories of crimes against women, including:  
+- **Rape Cases**  
+- **Gang Rapes**  
+- **Kidnapping and Abduction**  
+- **Assault with Intent to Outrage Modesty**  
+- **Cruelty by Husband or Relatives**  
+
+The data was sourced from official **NCRB (National Crime Records Bureau)** PDFs and processed for meaningful analysis.  
+
+---
+
+## 🛠️ **Tools & Technologies**  
+- **Power BI**: For creating interactive and visually appealing dashboards.  
+- **NCRB Data**: Extracted and processed
+
