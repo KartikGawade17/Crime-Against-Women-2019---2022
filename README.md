@@ -21,7 +21,8 @@ The data was sourced from official **NCRB (National Crime Records Bureau)** PDFs
 - **NCRB Data**: Extracted and processed
 
 ## 🔍 Preview  
-![Dashboard Preview](page 1.png)  
+![Dashboard Preview](p1.png)  
+![Dashboard Preview](p2.png)  
 *A glimpse of the interactive dashboard showcasing crime trends.*
 
 
