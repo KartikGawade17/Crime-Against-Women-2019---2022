@@ -20,3 +20,8 @@ The data was sourced from official **NCRB (National Crime Records Bureau)** PDFs
 - **Power BI**: For creating interactive and visually appealing dashboards.  
 - **NCRB Data**: Extracted and processed
 
+## 🔍 Preview  
+![Dashboard Preview](./assets/screenshots/dashboard-preview.png)  
+*A glimpse of the interactive dashboard showcasing crime trends.*
+
+
